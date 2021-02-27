@@ -36,7 +36,11 @@ cd ../..
 [3] Build it
 
 source build/envsetup.sh
+
 export ALLOW_MISSING_DEPENDENCIES=true
+
 lunch omni_j4ltejx-eng
+
 mka recoveryimage
+
 The builded recovery is in out/target/product/j4ltejx
