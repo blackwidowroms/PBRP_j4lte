@@ -1,7 +1,7 @@
 [
   {
     "remote":"github",
-    "repository": "TwrpBuilder/android_kernel_samsung_j4lte",
+    "repository": "blackwidowroms/android_kernel_samsung_j4lte",
     "target_path": "kernel/samsung/j4lte",
     "revision":"master"
   }
