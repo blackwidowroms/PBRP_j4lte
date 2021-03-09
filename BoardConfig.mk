@@ -44,7 +44,6 @@ TARGET_KERNEL_SOURCE := kernel/samsung/j4lte
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-linux-android-
 
 # Image
-BOARD_CUSTOM_BOOTIMG_MK := device/samsung/j4ltejx/mkbootimg.mk
 BOARD_KERNEL_IMAGE_NAME := Image
 BOARD_KERNEL_SEPARATED_DT := true
 BOARD_KERNEL_BASE := 0x10000000
