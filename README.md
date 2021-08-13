@@ -1,1 +1,1 @@
-SHRP Device Tree for Samsung Galaxy J4
+PBRP Device Tree for Samsung Galaxy J4
