@@ -82,23 +82,3 @@ BOARD_HAS_NO_REAL_SDCARD := true
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
 #Ignore Missing Dependencies
 ALLOW_MISSING_DEPENDENCIES=true
-
-
-#SHRP_Variables
-SHRP_PATH := device/samsung/j4lte
-SHRP_MAINTAINER := BlackRomsDev
-SHRP_DEVICE_CODE := j4lte
-SHRP_EDL_MODE := 1
-SHRP_EXTERNAL := /external_sd
-SHRP_INTERNAL := /sdcard
-SHRP_OTG := /usbotg
-SHRP_REC := /dev/block/platform/13540000.dwmmc0# Shrp official
-SHRP_OFFICIAL := true# Shrp official
-SHRP_OFFICIAL := true/by-name/recovery
-SHRP_REC_TYPE := Treble
-SHRP_DEVICE_TYPE := A/B
-SHRP_FLASH := 1
-# Shrp official
-SHRP_OFFICIAL := true
-#SHRP_FLASH_MAX_BRIGHTNESS := 200
-SHRP_OFFICIAL := true
